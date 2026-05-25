@@ -1,0 +1,40 @@
+{
+    "admin": {
+        "password": "scrypt:32768:8:1$nd3mmr1vDl9taAil$8a2db99a7f96092639fa2b705461b9d176c3a21bad4c82e5bfee6c66624f4fd2cf186a68433cdd2cd512216669e5061df1b419cbde1f24440733cab912dd6c25",
+        "role": "Administrator",
+        "uprawnienia": [
+            "wszystko"
+        ]
+    },
+    "logistyk1": {
+        "password": "scrypt:32768:8:1$7EL6sjWsF7UKwGsk$9f9a47f19451785f13b31261f7dbb944bba1a3e662a805e088b5ca672cd811e02179c2c5f40f6c7fd8ff7f32ea24fcd63c6a24f3ccf562e5e1d9bc4e3e91e985",
+        "role": "Logistyk",
+        "uprawnienia": [],
+        "status": "wolny",
+        "current_vehicle": null
+    },
+    "kiero1": {
+        "password": "123!@#qweQWE",
+        "role": "Kierowca",
+        "uprawnienia": [
+            "C+E",
+            "Kod 95",
+            "ATP"
+        ],
+        "status": "wolny",
+        "current_vehicle": null
+    },
+    "kiero2": {
+        "password": "scrypt:32768:8:1$Wn5v2vOzqzrV5kNu$61bcc29e1af85d9cbd30222335938ebb3856cd04b5af3cffb16a581d26572daa8d813aad02db40d6b7adef1b5cb60d1804f406ec6b2837d9e81c5695de00d8b2",
+        "role": "Kierowca",
+        "uprawnienia": [
+            "C+E",
+            "ADR",
+            "ATP",
+            "Kod 95",
+            "C"
+        ],
+        "status": "wolny",
+        "current_vehicle": null
+    }
+}

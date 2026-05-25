@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nazwa": "Paliwo",
+        "ilosc": 14400,
+        "rodzaj": "ciekły"
+    },
+    {
+        "id": 2,
+        "nazwa": "Żwir",
+        "ilosc": 360,
+        "rodzaj": "sypki"
+    },
+    {
+        "id": 3,
+        "nazwa": "Kabanosy",
+        "ilosc": 476,
+        "rodzaj": "pakowany"
+    }
+]

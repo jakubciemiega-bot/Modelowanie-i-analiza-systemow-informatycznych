@@ -1,0 +1,39 @@
+[
+    {
+        "id": "KR12345",
+        "typ": "cysterna",
+        "max_ladownosc": 20000,
+        "stan": "sprawny",
+        "towary": [
+            "ciekły"
+        ]
+    },
+    {
+        "id": "KR67890",
+        "typ": "ciężarówka",
+        "max_ladownosc": 15000,
+        "stan": "sprawny",
+        "towary": [
+            "pakowany",
+            "sypki"
+        ]
+    },
+    {
+        "id": "KR12346",
+        "typ": "cysterna",
+        "max_ladownosc": 18000,
+        "stan": "sprawny",
+        "towary": [
+            "ciekły"
+        ]
+    },
+    {
+        "id": "RMI6276A",
+        "typ": "cysterna",
+        "max_ladownosc": 12000,
+        "stan": "sprawny",
+        "towary": [
+            "cieły"
+        ]
+    }
+]
